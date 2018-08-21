@@ -1,0 +1,1 @@
+cucumber -t "@wip" -f pretty -f html -o appiumreport.html

@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'appium_lib'
+gem 'cucumber'
+gem 'eventmachine' 
+#If your reading this Jarad, make sure you run for eventmachine, you run the command 
+#gem install --platform ruby eventmachine
